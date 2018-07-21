@@ -1,0 +1,643 @@
+Manifest-Version: 1.0
+Created-By: ApkEditor(luomao2000@tom.com)
+
+Name: assets/www/fonts/font-awesome/scss/_rotated-flipped.scss
+SHA1-Digest: ygigrz2mPC8qfTwnqHR2N3RMx4U=
+
+Name: assets/www/images/project/18.jpg
+SHA1-Digest: JGsjVACTnorGEv3qDSC5GVrDZ7o=
+
+Name: assets/www/service-v3.html
+SHA1-Digest: 4RD0wgsFj9G1O92mVvP9vBfpNz4=
+
+Name: assets/www/fonts/font-awesome/scss/_core.scss
+SHA1-Digest: VaFKNCZ+3EAbguXuQdi9hPu12j8=
+
+Name: assets/www/vendor/WOW-master/README.md
+SHA1-Digest: +09PjTgvPf7NMiYAlpoIfqx9Y4Q=
+
+Name: assets/www/vendor/WOW-master/css/site.css
+SHA1-Digest: FeBgGf15kzv47OysVUZa5h7vuP0=
+
+Name: assets/www/fonts/font-awesome/scss/_larger.scss
+SHA1-Digest: lA4cXrxpAoO/ruklYM8V+r7b9qk=
+
+Name: assets/www/vendor/bootstrap/bootstrap-theme.css.map
+SHA1-Digest: q8LjoRY95SN4xxu5LQB8Iquwo5M=
+
+Name: assets/www/images/project/20.jpg
+SHA1-Digest: JGsjVACTnorGEv3qDSC5GVrDZ7o=
+
+Name: assets/www/vendor/fancy-box/fancybox_sprite.png
+SHA1-Digest: F98Z+XYo53vgnDUr8nQl+uokglE=
+
+Name: assets/www/images/blog/5.jpg
+SHA1-Digest: ICimUkgIW0ojxOsnmzJzz1kFkYc=
+
+Name: assets/www/vendor/html5shiv.js
+SHA1-Digest: N3MBgJxEIjiCBCCRxElSmyyvu8M=
+
+Name: assets/www/css/responsive.css
+SHA1-Digest: f1QjkeaT0b25uZYXFMzBr+ttvBU=
+
+Name: assets/www/fonts/font-awesome/scss/_icons.scss
+SHA1-Digest: kXFgmMfIFqHF3wE3+MY9Ibj7u8U=
+
+Name: assets/www/fonts/font-awesome/less/fixed-width.less
+SHA1-Digest: 7AwkuXGE2rhhd2YPSGuNCM1jbEI=
+
+Name: assets/www/vendor/skills-master/jquery.skills.js
+SHA1-Digest: qtEVWhwbP7eyro3aVP4O0dEd4ik=
+
+Name: assets/www/fonts/font-awesome/less/larger.less
+SHA1-Digest: 5xGegtxQVA28NHK7p9dCgoFafsw=
+
+Name: assets/www/vendor/Camera-master/images/camera_skins.png
+SHA1-Digest: TgTOq0SGDhhj7iS4PLd3UJILJjg=
+
+Name: assets/www/vendor/isotope.pkgd.min.js
+SHA1-Digest: AfIy6G+jYqgI45HjM7xNxaiGxMc=
+
+Name: assets/www/images/home/c-5.jpg
+SHA1-Digest: KRZTr0VlGI0ZBr6R5JAqnuUpDeg=
+
+Name: assets/www/images/logo/p-4.png
+SHA1-Digest: X8q4apzVHcYMrAASuRulb3J+P4k=
+
+Name: assets/www/contact.html
+SHA1-Digest: ty2M31shKieMGHxa5B1yOQTjfmw=
+
+Name: assets/www/fonts/font-awesome/less/animated.less
+SHA1-Digest: Qh8sThAZHxSME7ijTl/z9ITUw5M=
+
+Name: res/menu/activity_digi_clock.xml
+SHA1-Digest: ajIa2As9QIeFHEVt4ozVkDR3fLI=
+
+Name: assets/www/images/logo/p-1.png
+SHA1-Digest: j4xhqGYm3C/pPYup8K9DQg8VCCo=
+
+Name: assets/www/vendor/Camera-master/scripts/jquery.min.js
+SHA1-Digest: GthrqR53lbrX1VSBcUEqWJ1pFWs=
+
+Name: assets/www/images/blog/c-2.jpg
+SHA1-Digest: jmpqUcWTPLMCArMVcU55Z6a7ZdU=
+
+Name: assets/www/vendor/fancy-box/jquery.fancybox.css
+SHA1-Digest: XxY0RGF7bPJnNC8GrBZqI3u2Lfk=
+
+Name: assets/www/news.html
+SHA1-Digest: bpNhrupTHjiqNp5hpCyj9tpPM80=
+
+Name: assets/www/images/blog/9.jpg
+SHA1-Digest: A5snSwb0VeORcCqPG6PO/a5xHc4=
+
+Name: assets/www/vendor/bootstrap/bootstrap.js
+SHA1-Digest: u/VeIPHrtjaFInmfKds5gwoI75M=
+
+Name: assets/www/vendor/WOW-master/demo.html
+SHA1-Digest: 5Pt7AZkNPLZgDfBfS2OQOWaPDGU=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: 7xNP3n9Z+BcfR3u0XPnjZnNwoT0=
+
+Name: assets/www/images/project/15.jpg
+SHA1-Digest: JGsjVACTnorGEv3qDSC5GVrDZ7o=
+
+Name: assets/www/images/blog/2.jpg
+SHA1-Digest: CNpqlmPT+DSboDrvwilXsxQIBKg=
+
+Name: assets/www/vendor/WOW-master/spec/coffeescripts/helpers/SpecHelper
+ .coffee
+SHA1-Digest: 83QMQJE3zZJwop3P2Q0ZnUajddI=
+
+Name: assets/www/vendor/bootstrap/bootstrap-theme.min.css
+SHA1-Digest: TJNtoCay+y5rY9PU3bw9m+tljRc=
+
+Name: assets/www/team.html
+SHA1-Digest: CSk4fRenfxMvbXZMcO4nEG6AKzE=
+
+Name: res/drawable-hdpi/ic_action_search.png
+SHA1-Digest: hBJOghCIQ1yk6Bft2PVDTMG4TlU=
+
+Name: assets/www/portfoilo-v3.html
+SHA1-Digest: Rcyr7xAgMghMne3FeROE50rrCmY=
+
+Name: assets/www/fonts/font-awesome/less/bordered-pulled.less
+SHA1-Digest: osKSE3sXQGGDrQ/b9IgP1ki5pco=
+
+Name: assets/www/fonts/font-awesome/css/font-awesome.css
+SHA1-Digest: QrFtlavqKs2TRTef9yqBMwqkV2o=
+
+Name: assets/www/images/home/slide-3.jpg
+SHA1-Digest: Vhkn5FlZ4n+A3El+M+p1E5YYEXE=
+
+Name: assets/www/vendor/WOW-master/spec/javascripts/fixtures/simple.html
+SHA1-Digest: hG2+YWCEnOV7jo6m2a66nagufrg=
+
+Name: assets/www/js/map-script.js
+SHA1-Digest: ey36d/uVPhkhhSPGLFLDK+1LvBk=
+
+Name: assets/www/fonts/glyphicons/glyphicons-halflings-regular.svg
+SHA1-Digest: 3lGoSUGAptsHSvLe4jg/CjY8Wwg=
+
+Name: res/drawable-mdpi/ic_action_search.png
+SHA1-Digest: navMxZQD0gju7+W3QLt6CG54g0M=
+
+Name: assets/www/fonts/font-awesome/fonts/FontAwesome.otf
+SHA1-Digest: a+7C0gNo8+luqsNOTbOZG1B7Uak=
+
+Name: assets/www/images/home/3.jpg
+SHA1-Digest: clF+vNhSqujl8Gz7gJ+p/4lyFqw=
+
+Name: assets/www/fonts/font-awesome/scss/_animated.scss
+SHA1-Digest: ja8Ymy+KQESVuEJLb9G6Yw3Rwtw=
+
+Name: assets/www/vendor/bootstrap/bootstrap-theme.css
+SHA1-Digest: 7PIkXdOeo7F8y0vqQs2kY1Y3YHg=
+
+Name: assets/www/images/project/6.jpg
+SHA1-Digest: 6nn++tYj0zIW/9bJFIFcQOqrLmo=
+
+Name: assets/www/images/logo/p-2.png
+SHA1-Digest: 58uWnHvQTM5j27Z+dA1Vhbm2Ftg=
+
+Name: assets/www/vendor/bootstrap/bootstrap.css.map
+SHA1-Digest: FlBlE8Xz2VmC5z+2ggzzxMWNaJc=
+
+Name: assets/www/images/project/10.jpg
+SHA1-Digest: Z7HPgpfo3YAS7YMe3HVgte00D3E=
+
+Name: assets/www/vendor/WOW-master/spec/javascripts/libs/jquery.js
+SHA1-Digest: P5718qYApy5qere+y/i9z3I6KK8=
+
+Name: assets/www/fonts/font-awesome/scss/font-awesome.scss
+SHA1-Digest: Bn5uYsxjr5vZfPcxhy1QJEtS9q4=
+
+Name: assets/www/vendor/Camera-master/scripts/jquery.easing.1.3.js
+SHA1-Digest: guQNBgvCaabd4gw5kMpaT+psp1Q=
+
+Name: assets/www/images/home/c-3.jpg
+SHA1-Digest: kjiPw93FKaBMWsMdAID0c5z7Mao=
+
+Name: assets/www/fonts/font-awesome/less/variables.less
+SHA1-Digest: njlNkydZp+PKlGa1Xa9F8a9H8lM=
+
+Name: assets/www/fonts/icon/font/_flaticon.scss
+SHA1-Digest: 8cRtbjMADfQX2/F/RG13UjT5qj8=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: 7xNP3n9Z+BcfR3u0XPnjZnNwoT0=
+
+Name: assets/www/vendor/bootstrap/bootstrap.min.js
+SHA1-Digest: bCZODgAmq17OSTUMaogSOY5pbLs=
+
+Name: assets/www/vendor/jquery.mixitup.min.js
+SHA1-Digest: Jma2+JVoXjx7P5flbj+ZW4QkPzY=
+
+Name: assets/www/images/team/1.jpg
+SHA1-Digest: gpkHFRXXwYtQGEg6ZXhKZKS3Dkw=
+
+Name: assets/www/images/team/6.jpg
+SHA1-Digest: gpkHFRXXwYtQGEg6ZXhKZKS3Dkw=
+
+Name: assets/www/vendor/fancy-box/jquery.fancybox.pack.js
+SHA1-Digest: UzYHZLQpwhL0JDmThEF8zCM7s74=
+
+Name: assets/www/vendor/skills-master/README.md
+SHA1-Digest: UcstfuyaJxCSLV3ZedMZzdiHzUs=
+
+Name: assets/www/fonts/font-awesome/less/mixins.less
+SHA1-Digest: PFs2sAaTcrUl7Yu7z2s9TSvtTng=
+
+Name: assets/www/images/home/c-6.jpg
+SHA1-Digest: KRZTr0VlGI0ZBr6R5JAqnuUpDeg=
+
+Name: assets/www/fonts/font-awesome/less/screen-reader.less
+SHA1-Digest: cRORMvFw6+dxKDYhD00sSQUVGJk=
+
+Name: assets/www/vendor/bootstrap/bootstrap.min.css
+SHA1-Digest: CN+alnUoUvLL0xDDD6zZNONIwsU=
+
+Name: assets/www/vendor/WOW-master/dist/wow.min.js
+SHA1-Digest: WST3u78d+j8JJoUdAfeC8jpZ6AU=
+
+Name: assets/www/images/project/13.jpg
+SHA1-Digest: CNpqlmPT+DSboDrvwilXsxQIBKg=
+
+Name: assets/www/vendor/Camera-master/scripts/camera.min.js
+SHA1-Digest: ZoKSsFdOKKbEfaZZwxj1yyKz6Ns=
+
+Name: assets/www/images/logo/logo-footer.png
+SHA1-Digest: t5l8UtlHJxQ2pET8YCQMNVQ+rQg=
+
+Name: assets/www/inc/sendemail.php
+SHA1-Digest: y4gnJwimQG8nOIJKvJtAikUScYc=
+
+Name: assets/www/images/team/4.jpg
+SHA1-Digest: gpkHFRXXwYtQGEg6ZXhKZKS3Dkw=
+
+Name: assets/www/vendor/owl-carousel/owl.theme.css
+SHA1-Digest: 2npZwj/aHM5L1MInfpUpoNvJsi0=
+
+Name: assets/www/resource/1.pdf
+SHA1-Digest: wF3wYf0mRRlaA8T1hXcce7wkXYM=
+
+Name: assets/www/images/project/16.jpg
+SHA1-Digest: JGsjVACTnorGEv3qDSC5GVrDZ7o=
+
+Name: assets/www/index-2.html
+SHA1-Digest: cLtGf3CPPM1ebJluC0oy9kijVmc=
+
+Name: assets/www/vendor/WOW-master/spec/javascripts/helpers/SpecHelper.j
+ s
+SHA1-Digest: H4BTcCbT9QTtaQ7+20Kjs85uO80=
+
+Name: assets/www/index.html
+SHA1-Digest: wqVKgMpmVenaEEmudpC5/Gxu0qY=
+
+Name: assets/www/vendor/Camera-master/scripts/camera.js
+SHA1-Digest: jLnrcFUNXz5vCWx97XvAzBDS5zU=
+
+Name: assets/www/images/inner-page/1.jpg
+SHA1-Digest: r1BpfvQ0NiH6AE5bZ6za8UIOX+g=
+
+Name: assets/www/vendor/WOW-master/spec/javascripts/wow-spec.js
+SHA1-Digest: NXDhgWidTpi4/QnL/H/LcYldhcA=
+
+Name: resources.arsc
+SHA1-Digest: Z7xikI4jpaGNcFzNcoh0pTeWBqw=
+
+Name: assets/www/vendor/Camera-master/images/blank.gif
+SHA1-Digest: E+5fQYouMd/CDsERlKeTOTnnYgU=
+
+Name: assets/www/images/home/slide-1.jpg
+SHA1-Digest: Vhkn5FlZ4n+A3El+M+p1E5YYEXE=
+
+Name: assets/www/images/team/2.jpg
+SHA1-Digest: gpkHFRXXwYtQGEg6ZXhKZKS3Dkw=
+
+Name: assets/www/vendor/jquery.appear.js
+SHA1-Digest: mrSBR+ytgyddFHph3qjfipaOWg4=
+
+Name: assets/www/fonts/glyphicons/glyphicons-halflings-regular.eot
+SHA1-Digest: hrb2K3hT5n0+Y19lEqWl78WOo8M=
+
+Name: assets/www/fonts/glyphicons/glyphicons-halflings-regular.woff
+SHA1-Digest: J45JqG5jTabyoC87R92dKo8mIQ8=
+
+Name: assets/www/vendor/WOW-master/spec/coffeescripts/wow-spec.coffee
+SHA1-Digest: k1XY4DIkXxk3ta0VEWczxitRvnM=
+
+Name: assets/www/images/team/7.jpg
+SHA1-Digest: gpkHFRXXwYtQGEg6ZXhKZKS3Dkw=
+
+Name: assets/www/vendor/fancy-box/jquery.fancybox-media.js
+SHA1-Digest: O99p7SRp5PtX9alfFzAO74kf+Q0=
+
+Name: assets/www/images/home/2.jpg
+SHA1-Digest: 1htaxLkQO0JXrzY0k+rnV36Zj4Y=
+
+Name: assets/www/vendor/WOW-master/package.json
+SHA1-Digest: y9fB7Fl3KtorlyDK2O7LBaFe520=
+
+Name: assets/www/vendor/Camera-master/images/camera-loader.gif
+SHA1-Digest: NJ/PiUC+tQvjzwCJ+l9POPiQZFw=
+
+Name: assets/www/vendor/fancy-box/fancybox_loading.gif
+SHA1-Digest: GnVfslmfOjE8xs/bFN8EP4wUqZw=
+
+Name: assets/www/css/style.css
+SHA1-Digest: QAKwuVhBqXAqLkc45HwDg7YHBps=
+
+Name: assets/www/fonts/font-awesome/less/list.less
+SHA1-Digest: 9TvCCIShQQ2VC0o2ozDFGBqLVas=
+
+Name: assets/www/fonts/icon/font/flaticon.css
+SHA1-Digest: GceC2kEllqnufbcYPmHwwrq3gBo=
+
+Name: assets/www/images/project/8.jpg
+SHA1-Digest: CNpqlmPT+DSboDrvwilXsxQIBKg=
+
+Name: assets/www/fonts/icon/font/Flaticon.woff
+SHA1-Digest: LzNcps7R0bVc/D/QDHoAM+MNvV8=
+
+Name: assets/www/images/logo/logo.png
+SHA1-Digest: sm1e3DyQJHtHOEYt1yqBJquKdA4=
+
+Name: assets/www/vendor/WOW-master/spec/javascripts/fixtures/custom.html
+SHA1-Digest: 1Dq0XtT0Vob7fdLncjRm5AL/Nns=
+
+Name: assets/www/images/blog/c-1.jpg
+SHA1-Digest: jmpqUcWTPLMCArMVcU55Z6a7ZdU=
+
+Name: assets/www/fonts/font-awesome/HELP-US-OUT.txt
+SHA1-Digest: T3v5YfG+1Ej2upmuuSGfq/kwupY=
+
+Name: res/layout/activity_digi_clock.xml
+SHA1-Digest: k+v7I0+XH2qij+mERxnsiWKLtXM=
+
+Name: assets/www/images/blog/6.jpg
+SHA1-Digest: ICimUkgIW0ojxOsnmzJzz1kFkYc=
+
+Name: assets/www/vendor/contact-form/validate.js
+SHA1-Digest: iM2bHSx3PTEUXPcLoFOLMBDxyA4=
+
+Name: assets/www/fonts/font-awesome/scss/_path.scss
+SHA1-Digest: CAFYrrG/bfWeyYsrvtRNph2cnKM=
+
+Name: assets/www/images/team/8.jpg
+SHA1-Digest: gpkHFRXXwYtQGEg6ZXhKZKS3Dkw=
+
+Name: assets/www/images/inner-page/2.jpg
+SHA1-Digest: Eb7bQp4BZRNLeih4PqJnD9PW/i4=
+
+Name: assets/www/images/home/c-1.jpg
+SHA1-Digest: kjiPw93FKaBMWsMdAID0c5z7Mao=
+
+Name: assets/www/vendor/WOW-master/bower.json
+SHA1-Digest: /2nTwUL6kfPEfQ5BeD+1k16Y5To=
+
+Name: assets/www/images/home/pattern.png
+SHA1-Digest: ulIj5Gv9RQJTgtYvKoDFfBP/xnU=
+
+Name: assets/www/images/project/3.jpg
+SHA1-Digest: B1PSsgHJPr1nsgbFtc9M9Cc/WTI=
+
+Name: assets/www/fonts/font-awesome/less/stacked.less
+SHA1-Digest: 8EQHe8i+GpicJFJU6B6whNUtKac=
+
+Name: assets/www/images/project/19.jpg
+SHA1-Digest: JGsjVACTnorGEv3qDSC5GVrDZ7o=
+
+Name: classes.dex
+SHA1-Digest: JcwX0NgvlKzMybJJZN4EwrV5G30=
+
+Name: assets/www/vendor/Camera-master/README.md
+SHA1-Digest: cli8eolKqPBZyy0xoFljQHZ9Kwo=
+
+Name: assets/www/images/project/1.jpg
+SHA1-Digest: d35+TiRGtj3V7IoGFuuuf5PSbmc=
+
+Name: assets/www/fonts/font-awesome/scss/_bordered-pulled.scss
+SHA1-Digest: FktqCiswfNKT9KkUqw/N9kOVA3Q=
+
+Name: assets/www/vendor/owl-carousel/owl.carousel.min.js
+SHA1-Digest: L6fEaBEPpo8fPfZxja+XGHFiPuk=
+
+Name: assets/www/vendor/fancy-box/fancybox_overlay.png
+SHA1-Digest: s6TuZFuklPUoQO+EEgFboPRl2+A=
+
+Name: assets/www/images/home/c-4.jpg
+SHA1-Digest: KRZTr0VlGI0ZBr6R5JAqnuUpDeg=
+
+Name: assets/www/fonts/glyphicons/glyphicons-halflings-regular.ttf
+SHA1-Digest: RLwYUPVwlyJnsWmuGPHLBrYR/6I=
+
+Name: assets/www/fonts/font-awesome/scss/_fixed-width.scss
+SHA1-Digest: IkQXyiZsZXhJr7K7y23EVYlP84c=
+
+Name: assets/www/fonts/font-awesome/fonts/fontawesome-webfont.woff2
+SHA1-Digest: l3NX+Cgw9X+9rCSS3UIeXczkSho=
+
+Name: res/xml/config.xml
+SHA1-Digest: s0UZtvS6o+37CU9it0nV0j3S0Uw=
+
+Name: assets/www/about-us.html
+SHA1-Digest: 3rE865cs28++Ifp9A+zKXrqanhg=
+
+Name: assets/www/portfoilo-v1.html
+SHA1-Digest: zIzryAw5Bb+rgPM0Yht1EE1m2g0=
+
+Name: assets/www/vendor/contact-form/jquery.form.js
+SHA1-Digest: Y7HOrqBFkLlhHT7227WIs2W+RVk=
+
+Name: assets/www/images/home/c-2.jpg
+SHA1-Digest: kjiPw93FKaBMWsMdAID0c5z7Mao=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: 7xNP3n9Z+BcfR3u0XPnjZnNwoT0=
+
+Name: assets/www/vendor/jquery.mCustomScrollbar.min.css
+SHA1-Digest: +sm1IQYv61JQwE1iEoqMPdsxJjI=
+
+Name: assets/www/fonts/font-awesome/less/icons.less
+SHA1-Digest: tL/7HG9Q9OVnkbJXuvkYlm2rcSQ=
+
+Name: assets/www/fonts/font-awesome/fonts/fontawesome-webfont.svg
+SHA1-Digest: frbvtRznZHzAB4d6CcqMeoj1jNs=
+
+Name: assets/www/fonts/font-awesome/scss/_screen-reader.scss
+SHA1-Digest: LYVjxIj2jnWijVQN2JMB7k7gjJc=
+
+Name: assets/www/images/fav-icon/icon.png
+SHA1-Digest: 754iYc8yMr+HeofZ3BvlbXQkC+E=
+
+Name: assets/www/vendor/skills-master/source/habilidades.css
+SHA1-Digest: DUiymtHkKajvsDf/0FWEQjIpJ9I=
+
+Name: assets/www/images/team/3.jpg
+SHA1-Digest: gpkHFRXXwYtQGEg6ZXhKZKS3Dkw=
+
+Name: assets/www/vendor/WOW-master/css/libs/animate.css
+SHA1-Digest: LnDMyC4O094v2HQJ5spm57Gi0oU=
+
+Name: assets/www/vendor/owl-carousel/owl.carousel.css
+SHA1-Digest: LCIrPfTKHrG4mvxaQmcFo4JUy0Y=
+
+Name: assets/www/fonts/icon/license/license.html
+SHA1-Digest: Ezg1fZ1OP00NKI7oywg5CPfus48=
+
+Name: assets/www/news-details.html
+SHA1-Digest: 9kywryWVrqWsYTNOLQZbkJ541jM=
+
+Name: assets/www/fonts/font-awesome/less/path.less
+SHA1-Digest: GvtKhJBZYx927SpRnX+xvQrxSAI=
+
+Name: res/drawable-xhdpi/ic_action_search.png
+SHA1-Digest: l2r6+2aZ2FH4y01eFfjPlwgFTlw=
+
+Name: assets/www/vendor/WOW-master/src/wow.coffee
+SHA1-Digest: gzvAmNcwuHACHZgktermyzwLmLs=
+
+Name: assets/www/vendor/hover.css
+SHA1-Digest: F8p/4JfqX2fNRbowLJ3muA+EXWI=
+
+Name: assets/www/service-v2.html
+SHA1-Digest: +c503/VdR3siS4DNWW6/SzpUJaI=
+
+Name: assets/www/images/blog/3.jpg
+SHA1-Digest: CNpqlmPT+DSboDrvwilXsxQIBKg=
+
+Name: assets/www/images/project/9.jpg
+SHA1-Digest: CNpqlmPT+DSboDrvwilXsxQIBKg=
+
+Name: assets/www/images/blog/10.jpg
+SHA1-Digest: A5snSwb0VeORcCqPG6PO/a5xHc4=
+
+Name: assets/www/vendor/skills-master/source/animate.css
+SHA1-Digest: W6wBYtv8/QxwG40ISEEaKIwnosI=
+
+Name: assets/www/vendor/WOW-master/Gruntfile.js
+SHA1-Digest: 1RZXK9KFs+5Wsqw3umpw1wZi7yk=
+
+Name: assets/www/fonts/icon/font/Flaticon.svg
+SHA1-Digest: NjYaCrqbHfxHw5ZftUzIHtKS5Jo=
+
+Name: assets/www/images/team/5.jpg
+SHA1-Digest: gpkHFRXXwYtQGEg6ZXhKZKS3Dkw=
+
+Name: assets/www/fonts/font-awesome/less/rotated-flipped.less
+SHA1-Digest: ld5d6QCXFGkkMLBPnNQ4i+j7qPM=
+
+Name: assets/www/fonts/icon/font/flaticon.html
+SHA1-Digest: 8HGoKQD4aCdTMPH6DXe2KZEyyaY=
+
+Name: assets/www/vendor/respond.js
+SHA1-Digest: QTHzZGBQX3kkSqz+WQGgdmNg6Lo=
+
+Name: assets/www/vendor/gmaps.min.js
+SHA1-Digest: /v1V0o2LVWGVzB+mnzrQFc2q+sc=
+
+Name: assets/www/vendor/bootstrap/bootstrap.css
+SHA1-Digest: aYfjva16Ol0UPd8kU+KXgtvZnCk=
+
+Name: assets/www/fonts/icon/font/Flaticon.eot
+SHA1-Digest: 5PUu2Muit6a5xMF+aZYkdJtt2ug=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: 7xNP3n9Z+BcfR3u0XPnjZnNwoT0=
+
+Name: assets/www/images/home/4.jpg
+SHA1-Digest: w6eQT1QEPjblwoYU+xTbdQRwWMg=
+
+Name: assets/www/fonts/glyphicons/glyphicons-halflings-regular.woff2
+SHA1-Digest: yjW2l9mcrk0bYPLWD803dxmH6wc=
+
+Name: assets/www/images/logo/p-3.png
+SHA1-Digest: y/cLrzA9+ZBHEvRlNt3sfoEdyA8=
+
+Name: assets/www/images/logo/map.png
+SHA1-Digest: rXAFsNIEMyrKv4B9pOSQhd4hrlQ=
+
+Name: assets/www/fonts/font-awesome/scss/_list.scss
+SHA1-Digest: S1PuAVE9+LnOdkQrLY8YUWE6Q1w=
+
+Name: assets/www/fonts/font-awesome/scss/_stacked.scss
+SHA1-Digest: z2dS7mCa826yk6cZfIjTHsrLvHQ=
+
+Name: assets/www/images/project/2.jpg
+SHA1-Digest: B1PSsgHJPr1nsgbFtc9M9Cc/WTI=
+
+Name: assets/www/fonts/font-awesome/scss/_variables.scss
+SHA1-Digest: MatH+2CYGknK+TshBRoxqquModo=
+
+Name: assets/www/fonts/font-awesome/less/core.less
+SHA1-Digest: Gjc1IoZhm3idFRoG60t1UeTBqqI=
+
+Name: assets/www/fonts/font-awesome/fonts/fontawesome-webfont.ttf
+SHA1-Digest: +pgqT9JcGRbRXlBFSo8KrwA0np4=
+
+Name: assets/www/js/theme.js
+SHA1-Digest: 5ZcG5nTjlwlOa7AzSlAJeelyGjk=
+
+Name: assets/www/fonts/icon/font/Flaticon.ttf
+SHA1-Digest: iBXA7XsWeZU9YmNo+2pttKFLJII=
+
+Name: assets/www/images/project/5.jpg
+SHA1-Digest: d35+TiRGtj3V7IoGFuuuf5PSbmc=
+
+Name: assets/www/fonts/font-awesome/fonts/fontawesome-webfont.woff
+SHA1-Digest: j9+SWgtVDNhGHewypXd2dsw6ryg=
+
+Name: assets/www/vendor/Camera-master/css/camera.css
+SHA1-Digest: k8kd9F+iXVsA9vfOWjGv6vy9rtA=
+
+Name: assets/www/images/project/17.jpg
+SHA1-Digest: JGsjVACTnorGEv3qDSC5GVrDZ7o=
+
+Name: assets/www/fonts/font-awesome/scss/_mixins.scss
+SHA1-Digest: TziBA0pMEcrozJFfKIR3tJijV6I=
+
+Name: assets/www/images/logo/logo2.png
+SHA1-Digest: iEJmcj/yxZqA2YxElxIag+a4zEY=
+
+Name: assets/www/images/home/1.jpg
+SHA1-Digest: AQGwCc4fdZ8MxlHHUdMFR8r5Vmk=
+
+Name: assets/www/images/project/4.jpg
+SHA1-Digest: B1PSsgHJPr1nsgbFtc9M9Cc/WTI=
+
+Name: assets/www/vendor/Camera-master/scripts/jquery.mobile.customized.m
+ in.js
+SHA1-Digest: ZmMbDBQEzTLIuMHKj5bW1zJRvMo=
+
+Name: assets/www/vendor/skills-master/test_page.html
+SHA1-Digest: XNKQ1n3jZoi9CZ7K2SUnK/oHf8s=
+
+Name: assets/www/images/home/slide-2.jpg
+SHA1-Digest: Vhkn5FlZ4n+A3El+M+p1E5YYEXE=
+
+Name: assets/www/images/project/14.jpg
+SHA1-Digest: CNpqlmPT+DSboDrvwilXsxQIBKg=
+
+Name: assets/www/images/blog/7.jpg
+SHA1-Digest: ICimUkgIW0ojxOsnmzJzz1kFkYc=
+
+Name: assets/www/images/project/7.jpg
+SHA1-Digest: sfBQY9zdhvbejW/6O2XS2ssHa8E=
+
+Name: assets/www/images/blog/4.jpg
+SHA1-Digest: ICimUkgIW0ojxOsnmzJzz1kFkYc=
+
+Name: assets/www/vendor/jquery.mCustomScrollbar.concat.min.js
+SHA1-Digest: FHftkWvuy3JtIK8PysjO14ndRik=
+
+Name: assets/www/images/project/11.jpg
+SHA1-Digest: yVGpP0MWkD3lhOyNIfNs73UetRU=
+
+Name: assets/www/vendor/Camera-master/scripts/_notes/dwsync.xml
+SHA1-Digest: +SeZ4uz4sV/x9WeHYcyJykYhwZE=
+
+Name: assets/www/fonts/font-awesome/css/font-awesome.min.css
+SHA1-Digest: 2gdXH1MYi76grNltd0rDi49ODkI=
+
+Name: assets/www/vendor/owl-carousel/animate.css
+SHA1-Digest: W6wBYtv8/QxwG40ISEEaKIwnosI=
+
+Name: assets/www/images/blog/8.jpg
+SHA1-Digest: A5snSwb0VeORcCqPG6PO/a5xHc4=
+
+Name: assets/www/portfoilo-v2.html
+SHA1-Digest: MQiw+e6c0Q/xZSTkJDakN59TFFE=
+
+Name: assets/www/service-v1.html
+SHA1-Digest: 4oitwnvWBieVRTJZuEumO0qVUFQ=
+
+Name: assets/www/images/blog/1.jpg
+SHA1-Digest: CNpqlmPT+DSboDrvwilXsxQIBKg=
+
+Name: assets/www/vendor/jquery.countTo.js
+SHA1-Digest: fIToOF0KACA0r5cAzTgujw9KLns=
+
+Name: assets/www/vendor/jquery.2.2.3.min.js
+SHA1-Digest: Lz2d2XiYNHqd3W1gZGPkg9tdNEk=
+
+Name: assets/www/images/project/12.jpg
+SHA1-Digest: sfBQY9zdhvbejW/6O2XS2ssHa8E=
+
+Name: AndroidManifest.xml
+SHA1-Digest: MiaxYCuKBw5uTKQVpLusvL66Y40=
+
+Name: assets/www/vendor/WOW-master/dist/wow.js
+SHA1-Digest: 6gV24gYxEyCRA9ZDmx0SBpgKHng=
+
+Name: assets/www/vendor/WOW-master/spec/javascripts/libs/jasmine-jquery.
+ js
+SHA1-Digest: wc5WjPrmQx/gbvhh4zCDuA5ADHY=
+
+Name: assets/www/fonts/font-awesome/fonts/fontawesome-webfont.eot
+SHA1-Digest: vTKUZv96aU6C07i/V4lEeAderKA=
+
+Name: assets/www/fonts/font-awesome/less/font-awesome.less
+SHA1-Digest: +c4zGsjH7B5oiTH/3TORPwrWlcE=
+
